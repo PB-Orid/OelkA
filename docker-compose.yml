@@ -1,6 +1,6 @@
 # Docker compuse-up
 elk:
-  build:OelkA
+  build:oelka
   ports:
     - "5601:5601"
     - "9200:9200"
