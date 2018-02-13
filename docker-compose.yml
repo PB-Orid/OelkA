@@ -1,4 +1,4 @@
-# Docker compuse-up
+# Docker-compuse up
 elk:
   build:oelka
   ports:
